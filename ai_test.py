@@ -1,9 +1,3 @@
-############### LINKS #################
-# https://www.analyticsvidhya.com/blog/2016/07/practical-guide-data-preprocessing-python-scikit-learn/?#
-# https://towardsdatascience.com/an-overview-of-categorical-input-handling-for-neural-networks-c172ba552dee
-# https://blog.cambridgespark.com/robust-one-hot-encoding-in-python-3e29bfcec77e
-#######################################
-
 import pandas as pd
 from sklearn import preprocessing
 from sklearn.neighbors import KNeighborsClassifier
